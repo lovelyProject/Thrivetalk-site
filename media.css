@@ -1,0 +1,197 @@
+@media (max-width:1241px){
+        .second-img{
+        display: none;
+        
+    }
+    .second-text{
+        margin-bottom: 42px;
+    }
+}
+@media (max-width:1200px){
+    *{
+        margin: 0;
+    }
+    body{
+        max-width: 1200px;
+    }
+    .container1-img{
+        display: none;
+    }
+
+    .second-text{
+        margin-bottom: 42px;
+    }
+    .fifth-img{
+        display: none;
+    }
+    .fifth-container{
+       margin: 0 auto;
+    }
+    .fifth-footer{
+        margin-bottom: 42px;
+    }
+    .six-img{
+        display: none;
+    }
+    .Physical-Health, .Mental-Health, .Nutrition, .Gymnastics, .Crossfit, .Aerobics, .block{
+        padding: 0;
+        margin: 0;
+        height: 200px;
+    }
+    .container1{
+        width: 850px;
+        margin: 187px 0 0 0; 
+        padding-left: 50px;
+    }
+    
+    .container{
+        margin: 0 auto;
+        width: 800px;
+    }
+    .aim, .aim-content{
+        width: 600px;
+        
+    }
+    .second-item{
+        padding: 151px 0 0 0;
+        margin: 0 auto;
+    }
+    .second-text{
+        width: 800px;
+        
+    }
+    .third-block{
+        justify-content: center;
+    }
+    .container3-title{
+        display: none;
+    }
+    .pink-block, .green-block, .blue-block, .dark-blue-block{
+        padding: 0;
+        max-height:  200px;
+    }
+    .blue-block, .dark-blue-block{
+        padding-left: 30px;
+    }
+    .block-text{
+       padding-top: 70px;
+    }
+    .fourth{
+        padding: 77px 0 0 0;
+    }
+    .four-text{
+        width: 200px;
+        font-size: 10px;
+        flex-wrap: wrap;
+    }
+    .four-one{
+        justify-content: space-evenly;
+        
+    }    
+    .four-two{
+        justify-content: space-evenly;
+    }
+    .fifth{
+        padding: 0;
+        justify-content: center;
+        background-color: #F4F9E2;
+    }
+    .six-footer{
+        margin-bottom: 42px;
+    }
+    .seven-img{
+        display: none;
+    }
+    .seven-info{
+        width: 100%;
+        margin-bottom: 99px;
+    }
+}
+@media (max-width:800px){
+    header{
+        margin: 27px 0 0 0;
+        max-width: 700px;
+        padding: 0 50px;
+        
+    }
+    .nav{
+        display: none;
+    }
+    .aim-content{
+        width: 500px;
+    }
+    .second{
+        padding-left: 50px;
+    }
+    .second-item{
+        padding-top: 50px;
+    }
+    .second-text{
+        width: 500px;
+    }
+    .third-block{
+        padding: 50px 0 0 0px;
+    }
+    .container3{
+        width: 500px;
+    }
+    .pink-block, .green-block, .blue-block, .dark-blue-block {
+        max-height: 150px;
+        font-size: 25px;
+}
+    .blocks{
+        margin-bottom: 50px;
+    }
+    .four-title{
+        font-size: 25px;
+        width: 150px;
+    }
+    .four-text{
+        width: 150px;
+    }
+    .four-one{
+                margin-bottom: 20px;
+    }
+    .four-two{
+        margin-bottom: 50px;
+    }
+    .fifth{
+        justify-content: flex-start;
+    }
+    .fifth-container{
+        margin: 0;
+    }
+    .fifth-title{
+       
+        margin: 50px 0 70px 50px;
+    }
+    .fifth-text{
+        padding-left: 50px;
+        width: 500px;
+        font-size: 25px;
+        margin-bottom: 45px;
+    }
+    .fifth-footer{
+        padding-left: 25px;
+        
+    }
+    .sixth-container{
+        padding: 50px 0 0 50px;
+    }
+    .six-contact{
+        margin-bottom: 50px;
+    }
+   .six-title{
+        font-size: 35px;
+       margin-bottom: 0px;
+    }
+    .six-text{
+        font-size: 25px;
+    }
+    .six-title, .six-text{
+        width: 500px;
+    }
+    .footer{
+        padding-left: 50px;
+    }
+}

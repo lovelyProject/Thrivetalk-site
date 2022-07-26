@@ -1,0 +1,510 @@
+* {
+
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Larsseit';
+    box-sizing: border-box;
+
+
+}
+body{
+    max-width: 1440px;
+    margin: auto;
+}
+header {
+    justify-content: space-between;
+    display: flex;
+    margin: 38px 131px 0 179px;
+    align-items: center;
+    color: #000;
+
+}
+
+.nav {
+    display: flex;
+    margin-right: 10px;
+    font-size: 14px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #22356F;
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+    margin-right: 15px;
+}
+
+.logo {
+    font-size: 24px;
+
+}
+
+.button {
+    color: #FFFFFF;
+}
+
+.menu-button {
+    font-size: 14px;
+    line-height: 16px;
+    border: 1px solid #62D0DF;
+    padding: 10px 30px;
+    background-color: #62D0DF;
+    border-radius: 25px;
+}
+
+.menu-button:hover {
+    background-color: #000;
+}
+
+.logo-text {
+    color: #62D0DF;
+
+}
+
+.container1 {
+    margin: 187px 0 75px 179px;
+}
+
+.title {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #62D0DF;
+    
+}
+
+.aim {
+    font-size: 48px;
+    color: #22356F;
+    margin-bottom: 45px;
+    flex-wrap: wrap;
+}
+
+.aim-content {
+    font-size: 24px;
+    color: #22356F;
+    flex-wrap: wrap;
+    margin-bottom: 63px;
+    
+}
+
+.container {
+    display: flex;
+    padding-bottom: 75px;
+    justify-content: space-between;
+}
+
+.buttons2-3 {
+    display: flex;
+}
+
+.button2 {
+    display: flex;
+    background-color: #F9B640;
+    color: #FFFFFF;
+    margin-right: 38px;
+    width: 150px;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+}
+
+.button3 {
+    padding: 10px;
+    color: #FAB63E;
+    width: 150px;
+    font-weight: bold;
+}
+.container1-img{
+    max-width: 824px;
+    max-height: 743px;
+}
+.second {
+    background-color: #62D0DF;
+    display: flex;
+    justify-content: space-between;
+}
+
+.second-item {
+    padding-top: 90px;
+    padding-left: 178px;
+    color: #FFF;
+    align-items: center;
+
+}
+
+.second-title {
+    font-size: 36px;
+    line-height: 27px;
+    margin-bottom: 75px;
+}
+
+.second-text {
+    font-size: 24px;
+    line-height: 35px;
+    margin-top: 75px;
+    flex-wrap: wrap;
+    margin-right: 181px;
+    max-width: 555px;
+}
+
+.second-img {
+    display: flex;
+    justify-content: flex-end;
+
+}
+.third-block{
+    display: flex;
+    padding: 156px 0 0 106px;
+}
+.container3 {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+.container3-title {
+    margin-right: 225px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #22356F;
+}
+
+.container3-text {
+    flex-wrap: wrap;
+    font-family: 'Larsseit';
+    font-size: 24px;
+    line-height: 34px;
+    color: #22356F;
+    margin-bottom: 76px;
+    max-width: 592px;
+    max-height: 210px;
+
+}
+
+.description {
+    text-align: center;
+    color: #22356F80;
+    margin-bottom: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.blocks {
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.pink-block {
+    text-align: center;
+    width: 25%;
+    background-color: #FFE2DE;
+    font-size: 32px;
+    line-height: 34px;
+    font-weight: bold;
+    color: #fff;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.green-block {
+    
+    width: 25%;
+    background-color: #C4E769;
+    font-size: 32px;
+    line-height: 34px;
+    font-weight: bold;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.blue-block {
+    width: 25%;
+    background-color: #62D0DF;
+    font-size: 32px;
+    line-height: 34px;
+    font-weight: bold;
+    color: #fff;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    
+}
+
+.dark-blue-block {
+    width: 25%;
+    background-color: #0052C1;
+    font-size: 32px;
+    line-height: 34px;
+    font-weight: bold;
+    color: #fff;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.blocks-second {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.blocks-second {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.block {
+    width: 33.3%;
+    height: 400px;
+    font-family: 'Larsseit';
+    font-size: 32px;
+    line-height: 34px;
+    color: #fff;
+}
+
+.Physical-Health {
+    background-color: #22356F;
+}
+
+.Mental-Health {
+    background-color: #0052C1;
+}
+
+.Nutrition {
+    background-color: #62D0DF;
+
+
+}
+
+.Gymnastics {
+    background-color: #62D0DF;
+}
+
+.Crossfit {
+    background-color: #DEE1FF;
+}
+
+.Aerobics {
+    background-color: #8F00FF;
+}
+
+.block-text {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+.block-titles {
+    color: #fff;
+}
+
+#C:hover {
+    color: #000;
+}
+/* четвертый блок */
+.four-one{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 92px;
+}
+.four-two{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 77px;
+    
+}
+.four-title{
+    font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+    margin: 0 0  28px 0;
+    color: #22356F;
+}
+.four-text{
+    max-width: 298px;
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+    color: #22356F80;
+}
+
+.fourth{
+    padding: 77px 77px 0 105px;
+}
+.fourth-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 77px 77px 0 105px;
+}
+
+.fourth-titles {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    color: #22356F;
+    margin-bottom: 28px;
+}
+
+.fourth-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #22356F80;
+    width: 298px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 28px 0 92px 0;
+}
+
+.fifth {
+    display: flex;
+    padding-right: 175px;
+    justify-content: space-between;
+
+}
+
+.fifth-img {
+    margin-right: 106px;
+}
+
+.fifth-title {
+    margin: 103px 0 225px 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 12px;
+    color: #22356F;
+}
+
+.fifth-text {
+    display: flex;
+    flex-wrap: wrap;
+    width: 676px;
+    font-size: 36px;
+    line-height: 53px;
+    color: #22356F;
+    margin-bottom: 152px;
+}
+
+.ThriveTalk {
+    color: #6CD3E1;
+}
+
+.fifth-footer {
+    color: #FAB63E;
+    font-size: 16px;
+    line-height: 23px;
+    text-decoration: none;
+}
+
+.fifth-footer:hover {
+    color: #000;
+}
+
+.sixth {
+    background-color: #22356F;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sixth-container {
+    padding: 103px 0 0 180px;
+}
+
+.six-text {
+    display: flex;
+    flex-wrap: wrap;
+    width: 579px;
+}
+
+.six-contact {
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 230px;
+}
+
+.six-contact:hover {
+    color: #000;
+}
+
+.six-title {
+    font-size: 64px;
+    line-height: 94px;
+    color: #fff;
+    margin-bottom: 75px;
+}
+
+.six-text {
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 54px;
+    color: #fff;
+    margin-bottom: 61px;
+}
+
+.six-footer {
+    color: #62D0DF;
+}
+
+.six-footer:hover {
+    color: #000;
+}
+
+.seventh {
+    display: flex;
+}
+
+.seven-info {
+    width: calc(100% - 570px);
+    display: flex;
+    padding-top: 98px;
+    justify-content: space-evenly;   
+}
+
+.seven-title {
+    font-size: 14px;
+    line-height: 11px;
+    color: #22356F;
+    font-weight: bold;
+    margin-bottom: 50px;
+    font-family: 'Larsseit';
+}
+
+.seven-text {
+    color: #22356F80;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 207px;
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+    letter-spacing: -0.006em;
+}
+
+.phone-number{
+    margin: 20px 0 10px 0;
+}
+
+.footer{
+    background-color: #62D0DF;
+    padding: 32px 0  26px 179px; 
+    font-size: 14px;
+line-height: 11px;
+    color: #fff;
+}
